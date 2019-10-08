@@ -1,2 +1,2 @@
 # DOMP
-A library for creating templates and handling DOM element.
+A library for creating templates and handling DOM elements.
